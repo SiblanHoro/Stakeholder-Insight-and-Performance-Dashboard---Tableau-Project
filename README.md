@@ -1,4 +1,4 @@
-# Stakeholder Insights and Performance Dashboard - Tableau Project
+# Stakeholder Insights and Performance Dashboard 
 
 ## Overview
 This project presents a **Stakeholder Insights and Performance Dashboard** built using Tableau for AXIS Bank. The dashboard is designed to provide a 360-degree view of key performance metrics, stakeholder distribution, and financial insights. It helps stakeholders make data-driven decisions and track performance over time.
